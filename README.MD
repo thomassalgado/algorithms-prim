@@ -1,1 +1,1 @@
-# Sorting Prim Method
+# Prim Method
